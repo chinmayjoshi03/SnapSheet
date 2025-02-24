@@ -1,0 +1,19 @@
+
+
+# Ignore dependencies and build files
+node_modules/
+build/
+dist/
+.vscode/
+*.log
+
+# Ignore Flutter dependencies
+frontend/.dart_tool/
+frontend/.idea/
+frontend/build/
+frontend/.packages
+frontend/pubspec.lock
+
+# Ignore Firebase private keys (DO NOT push them!)
+
+backend/.env
