@@ -17,3 +17,4 @@ frontend/pubspec.lock
 # Ignore Firebase private keys (DO NOT push them!)
 
 backend/.env
+
